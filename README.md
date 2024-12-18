@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DKunrath
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning C# .Net
+- 🌱 I’m currently learning Node.js with TypeScript and React
 - 📫 You can reach me in Linkedin: https://www.linkedin.com/in/rodrigo-kunrath-642884164/
 
 <!---
